@@ -1,5 +1,5 @@
 
-# CST8919 - Lab 1: Flask App with Auth0 Integration
+# CST8919 - Lab 1: Implementing User Login with Flask and Auth0
 
 **Student Name**: Naveed Hossain
 **Student ID**: 0410818822 
