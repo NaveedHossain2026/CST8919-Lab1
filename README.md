@@ -1,6 +1,13 @@
 
 # CST8919 - Lab 1: Flask App with Auth0 Integration
 
+**Student Name**: Naveed Hossain
+**Student ID**: 0410818822 
+**Course**: CST8919 DevOps - Security and Compliance
+**Semester**: Spring/Summer 2026
+
+---
+
 ## Demo Video
 
 https://www.youtube.com/watch?v=Mco-l7PuNp0
