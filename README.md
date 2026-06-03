@@ -3,6 +3,8 @@
 
 ## Video Demo
 
+https://www.youtube.com/watch?v=Mco-l7PuNp0
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
