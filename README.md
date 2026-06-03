@@ -1,7 +1,7 @@
 
 # CST8919 - Lab 1: Flask App with Auth0 Integration
 
-## Video Demo
+## Demo Video
 
 https://www.youtube.com/watch?v=Mco-l7PuNp0
 
